@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.PetCare360</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>PetCare360</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>PetCare360</name>
 	<description>pet store app</description>
