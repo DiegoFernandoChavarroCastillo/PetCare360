@@ -67,6 +67,5 @@ Justificación: centraliza la creación y evita código duplicado.
 
 ## Estrategia de ramas 
 
-
-Estructura de commits: 
-"feature/#numero de funcionalidad-funcionalidad"
+Estructura de ramas: 
+"feature/nombre de funcionalidad"
