@@ -16,7 +16,5 @@ public class Pet {
     private String breed;
     private int age;
 
-    @DocumentReference(lazy = true)
-    @JsonIgnoreProperties({"pets"})
-    private Owner owner;
+
 }
