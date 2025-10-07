@@ -18,5 +18,6 @@ public class AppointmentDTO {
     private Pet pet;
     private Veterinarian vet;
     private Status status;
+    private String reason;
 
 }
